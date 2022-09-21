@@ -1,7 +1,7 @@
 # Experimental lab materials for ESdev Course
 **Warnings**: 
 * This is an experimental repo for esdev course
-* It's just an additional reference for those who are intersted in both Python and C, or want to use *(arguably)* more readable lab documents.
+* It's just an additional reference for those who are intersted in both Python and C (or some HDLs), or want to use *(arguably)* more readable lab documents.
 
 **Description:**
 * Concepts related to lab3 - lab6 are important and also useful for many other programming languages. 
