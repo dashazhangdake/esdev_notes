@@ -1,4 +1,4 @@
-# Experimental lab materials for ESdev Course
+# Experimental materials for ESdev Labs
 **Warnings**: 
 * This is an experimental repo for esdev course
 * It's just an additional reference for those who are intersted in both Python and C (or some HDLs), or want to use *(arguably)* more readable lab documents.
